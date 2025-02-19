@@ -20,7 +20,7 @@ Stroke is a **leading cause of death and disability worldwide** 🌍. Early dete
 - **Python** 🐍  
 - **Flask** 🌐 (for backend)  
 - **Random Forest** 🌳 (for machine learning)  
-- **HTML, CSS, JavaScript** 🎨 (for frontend)  
+- **JavaScript** 🎨 (for frontend)  
 - **Pandas & NumPy** 📊 (for data processing)  
 
 ## 📌 Features  
