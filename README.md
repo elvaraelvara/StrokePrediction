@@ -37,12 +37,7 @@ git clone https://github.com/your-username/stroke-prediction-website.git
 cd stroke-prediction-website
 ```
 
-### 2️⃣ Install Dependencies  
-```sh
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Application  
+### 2️⃣  Run the Application  
 ```sh
 python app.py
 ```
