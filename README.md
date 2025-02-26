@@ -44,6 +44,6 @@ python app.py
 Then, open your browser and go to: **http://127.0.0.1:5000/**  
 
 ## 📄 Full Documentation  
-For more details on model training, dataset, and deployment, check out the **[Full Documentation](https://drive.google.com/file/d/13GYd5OBimkxbcWGLRfynD2tgtaDXqR6j/view?usp=sharing)** 📑  
+For more details check out the **[Full Documentation](https://drive.google.com/file/d/13GYd5OBimkxbcWGLRfynD2tgtaDXqR6j/view?usp=sharing)** 📑  
 
 
